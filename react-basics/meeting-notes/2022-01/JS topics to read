@@ -3,3 +3,10 @@ Topics:
 * Class vs Prototypes
 * Pure and Impure Functions
 * Destructuring in JS
+* function declarations vs function expressions
+* synchronous and asynchronous functions
+* state and props
+* lifecycle and hooks
+* stateless and stateful components
+* declarative and imperative
+* scopes (variables)
