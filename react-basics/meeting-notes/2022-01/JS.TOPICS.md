@@ -1,6 +1,4 @@
 ### TOPICS:
-
-![picture alt](https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg)
 -----------------------------------------------------
 
 
@@ -16,3 +14,4 @@
 * [Scopes (Variables,Functions)](https://www.w3schools.com/js/js_scope.asp)
 * [JS Event Loop (Must watch video)](https://youtu.be/cCOL7MC4Pl0)
 * [setState()](https://www.geeksforgeeks.org/reactjs-setstate/)
+* [Why state changes in React doesn't reflect immediately?](https://reactjs.org/docs/react-component.html#setstate)
